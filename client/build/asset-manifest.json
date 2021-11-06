@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/static/js/main.58b84032.chunk.js",
+    "main.js.map": "/static/js/main.58b84032.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
+    "static/js/2.fbf04c64.chunk.js": "/static/js/2.fbf04c64.chunk.js",
+    "static/js/2.fbf04c64.chunk.js.map": "/static/js/2.fbf04c64.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.fbf04c64.chunk.js.LICENSE.txt": "/static/js/2.fbf04c64.chunk.js.LICENSE.txt",
+    "static/media/search-icon.98bf653c.svg": "/static/media/search-icon.98bf653c.svg",
+    "static/media/tasky-logo.1094d978.png": "/static/media/tasky-logo.1094d978.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.900dd88b.js",
+    "static/js/2.fbf04c64.chunk.js",
+    "static/js/main.58b84032.chunk.js"
+  ]
+}
